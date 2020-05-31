@@ -200,6 +200,9 @@
     (gruvbox-light-soft               . gruvbox-theme)
     (gruvbox-light-medium             . gruvbox-theme)
     (gruvbox-light-hard               . gruvbox-theme)
+    (poet-dark                        . poet-theme)
+    (poet-monochrome                  . poet-theme)
+    (poet-dark-monochrome             . poet-theme)
     )
   "alist matching a theme name with its package name, required when
 package name does not match theme name + `-theme' suffix.")
